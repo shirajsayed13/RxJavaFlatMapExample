@@ -1,4 +1,4 @@
-package com.example.rxjavaflatmapexample.model;
+package com.example.rxjavaflatmapexample.data.model;
 
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
